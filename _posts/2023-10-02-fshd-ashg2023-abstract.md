@@ -68,6 +68,3 @@ _Description: Bland-Altman plots. Hybrid, mosaic, and simple, from the first col
 
 
 {% include footer_fshd.html %}
-<div id="html" markdown="0">
-<script type="text/javascript">window.$crisp=[];window.CRISP_WEBSITE_ID="b3f259b8-2493-444a-8acb-c12dc72d1fc4";(function(){d=document;s=d.createElement("script");s.src="https://client.crisp.chat/l.js";s.async=1;d.getElementsByTagName("head")[0].appendChild(s);})();</script>
-</div>

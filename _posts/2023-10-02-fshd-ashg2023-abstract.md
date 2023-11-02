@@ -18,6 +18,7 @@ Joowon Jang, M.D.<sup>1</sup>, Hobin Sung<sup>1</sup>, Jung Ae Lee, M.T.<sup>1</
 [Download the poster (PDF)](/assets/attachment/poster_ashg2023_fshd.pdf)
 
 > This article can be updated during ASHG 2023 meeting without notification.
+> To ask the author a question, tap the speech bubble in the bottom right (may take a while to load).
 {: .prompt-warning }
 
 ## Backgrounds
@@ -40,7 +41,7 @@ We evaluated the diagnostic value of OGM for complex FSHD, which involves struct
 
 ## Figures
 
-> Please touch images to enlarge.
+> Please tap or click images to enlarge.
 {: .prompt-tip }
 
 ![OGM-SB-ALLELES](/assets/img/density.jpg)

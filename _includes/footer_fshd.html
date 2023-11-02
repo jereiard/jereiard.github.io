@@ -1,15 +1,13 @@
 <head>
-  <script
-    async
-    src="https://api.countapi.xyz/hit/jereiard.github.io/visits?callback=cb"
-  ></script>
   <script>
     function cb(response) {
       document.getElementById("visits").innerText = response.value;
     }
   </script>
-</head>
-<body>
+  <script
+    async
+    src="https://api.countapi.xyz/hit/jereiard.github.io/visits?callback=cb"
+  ></script>
   <script type="text/javascript">
     window.$crisp = [];
     window.CRISP_WEBSITE_ID = "b3f259b8-2493-444a-8acb-c12dc72d1fc4";
@@ -21,5 +19,7 @@
       d.getElementsByTagName("head")[0].appendChild(s);
     })();
   </script>
+</head>
+<body>
   This page got <span id="visits"></span> views.
 </body>

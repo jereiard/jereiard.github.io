@@ -66,6 +66,5 @@ _Description: Bland-Altman plots. Hybrid, mosaic, and simple, from the first col
 10. Jones A, Torkel C, Stanley D, Nasim J, Borevitz J, Schwessinger B. High-molecular weight DNA extraction, clean-up and size selection for long-read sequencing. *PLOS ONE*. 2021-07-15 2021;16(7):e0253830. doi:10.1371/journal.pone.0253830
 11. Liu Y, Rosikiewicz W, Pan Z, et al. DNA methylation-calling tools for Oxford Nanopore sequencing: a survey and human epigenome-wide evaluation. *Genome Biology*. 2021-12-01 2021;22(1)doi:10.1186/s13059-021-02510-z
 
-{% if page.m_footer %}
-  {% include {{ page.m_footer }} %}
-{% endif %}
+
+{% include {{ page.m_footer }} %}

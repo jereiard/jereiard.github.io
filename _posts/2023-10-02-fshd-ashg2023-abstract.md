@@ -5,7 +5,7 @@ date: 2023-10-02 00:53:00 +0900
 categories: [Blogging, Study]
 tags: [fshd]
 toc: true
-render_with_liquid: false
+render_with_liquid: true
 m_footer: footer_fshd.html
 ---
 
@@ -67,4 +67,4 @@ _Description: Bland-Altman plots. Hybrid, mosaic, and simple, from the first col
 11. Liu Y, Rosikiewicz W, Pan Z, et al. DNA methylation-calling tools for Oxford Nanopore sequencing: a survey and human epigenome-wide evaluation. *Genome Biology*. 2021-12-01 2021;22(1)doi:10.1186/s13059-021-02510-z
 
 
-{% include footer_fshd.html %}
+{% include m_footer %}

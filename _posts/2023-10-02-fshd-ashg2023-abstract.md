@@ -16,6 +16,9 @@ Joowon Jang, M.D.<sup>1</sup>, Hobin Sung<sup>1</sup>, Jung Ae Lee, M.T.<sup>1</
 
 [Download the poster (PDF)](/assets/attachment/poster_ashg2023_fshd.pdf)
 
+> This article can be updated during ASHG 2023 meeting without notification.
+{: .prompt-warning }
+
 ## Background
 
 Facioscapulohumeral muscular dystrophy (FSHD) is a rare progressive muscular dystrophy characterized by weakness and loss of the shoulder, arm, and facial muscles. The pathogenesis of FSHD is attributed to the expression of the _DUX4_. The expression of _DUX4_ requires a permissive haplotype on chromosome 4, which contains a poly(A) signal required for stabilization of _DUX4_ mRNA. In type 1 FSHD, _DUX4_ is known to be expressed when the D4Z4 repeat sequence on chromosome 4q35 is contracted to 10 or less. Type 2 FSHD is known to be driven by hypomethylation of D4Z4, caused by abnormalities in the methylation-related genes SMCHD1 or DNMT3B, resulting in the expression of _DUX4_. A homologous sequence is located on chromosome 10q26, which requires differentiation techniques.

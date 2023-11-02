@@ -8,10 +8,6 @@ toc: true
 render_with_liquid: false
 ---
 
-\<Abstract>
-
-# Update to the CLIA diagnostic procedure using optical genome mapping for the diagnosis of facioscapulohumeral dystrophy
-
 Joowon Jang, M.D.<sup>1</sup>, Hobin Sung<sup>1</sup>, Jung Ae Lee, M.T.<sup>1</sup>, Sung Im Cho, M.T.<sup>1</sup>, Jee-Soo Lee, M.D., Ph. D.<sup>1</sup>, Man Jin Kim, M.D. Ph. D.<sup>2</sup>, Moon-Woo Seong, M.D., Ph. D.<sup>1,3</sup>
 
 <sup>1</sup>Department of Laboratory Medicine, Seoul National University Hospital, Seoul National University College of Medicine, Seoul, Korea;

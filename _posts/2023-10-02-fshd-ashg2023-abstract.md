@@ -8,25 +8,48 @@ toc: true
 render_with_liquid: false
 ---
 
-# Background
+\<Abstract>
+
+# Update to the CLIA diagnostic procedure using optical genome mapping for the diagnosis of facioscapulohumeral dystrophy
+
+Joowon Jang, M.D.<sup>1</sup>, Hobin Sung<sup>1</sup>, Jung Ae Lee, M.T.<sup>1</sup>, Sung Im Cho, M.T.<sup>1</sup>, Jee-Soo Lee, M.D., Ph. D.<sup>1</sup>, Man Jin Kim, M.D. Ph. D.<sup>2</sup>, Moon-Woo Seong, M.D., Ph. D.<sup>1,3</sup>
+
+<sup>1</sup>Department of Laboratory Medicine, Seoul National University Hospital, Seoul National University College of Medicine, Seoul, Korea;
+<sup>2</sup>Rare Disease Center, Seoul National University Hospital, Seoul National Uni- versity College of Medicine, Seoul, Korea;
+<sup>3</sup>Cancer research Institute, Seoul National University Hospital, Seoul, Korea
+
+[Download the poster (PDF)](/assets/attachment/poster_ashg2023_fshd.pdf)
+
+## Background
 
 Facioscapulohumeral muscular dystrophy (FSHD) is a rare progressive muscular dystrophy characterized by weakness and loss of the shoulder, arm, and facial muscles. The pathogenesis of FSHD is attributed to the expression of the DUX4. The expression of DUX4 requires a permissive haplotype on chromosome 4, which contains a poly(A) signal required for stabilization of DUX4 mRNA. In type 1 FSHD, DUX4 is known to be expressed when the D4Z4 repeat sequence on chromosome 4q35 is contracted to 10 or less. Type 2 FSHD is known to be driven by hypomethylation of D4Z4, caused by abnormalities in the methylation-related genes SMCHD1 or DNMT3B, resulting in the expression of DUX4. A homologous sequence is located on chromosome 10q26, which requires differentiation techniques.
 
 Currently, type 1 FSHD can be partially diagnosed in Korea. Cases with complex mechanisms such as hybrid or mosaicism, or type 2 FSHD is undiagnosable due to limitations in methods. Current methods include restriction enzyme digestion, simple sequence length polymorphism and Southern blot (SB) to identify haplotype and D4Z4 repeat counts. Optical genome mapping (OGM) is an approach to detecting structural variations (SV) in whole genomes. As the base-specific fluorescent-labelled DNA flows through the nanochannel, the fluorescence pattern is captured by the camera. The imaged DNA is compared to a standard genome and SVs are detected by the different patterns. It can also be applied to detect contractions in repetitive sequences such as FSHD. The performance of OGM in simple FSHD caused by repetitive contractions is known, but not in FSHD involving complex mechanisms. We evaluate the diagnostic value of OGM in complex FSHD and propose an integrated diagnostic strategy.
 
-# Methods
+## Methods
 
 We reviewed the test results of 218 patients with suspected FSHD at Seoul National University Hospital from 2017 to 2021, including 30 patients with complex FSHD. Complex FSHD includes hybrid, mosaic and 4 on 10 that is not diagnosed by D4Z4 repeat contractions. OGM was performed in 26 patients, and the results were compared with SB using linear regression and the Bland-Altman method.
 
-# Results
+## Results
 
 A total of 226 allele counts were identified for the 26 patients. The 10 hybrid cases showed the greatest discrepancy in the number of D4Z4 repeats between the two methods. Linear regression showed that mosaics had an adjusted R2 and p-value of 0.89 and < 0.01 respectively, whereas hybrids had -0.10 and 0.81, indicating a significant difference for hybrids. In the Bland-Altman analysis, the bias (confidence interval) was -0.096 (-1.632 to 1.441) for mosaics and 1.041 (-8.337 to 10.419) for hybrids, indicating a similar mean but a more variable distribution for hybrids.
 
-# Conclusions
+## Conclusions
 
 We evaluated the diagnostic value of OGM for complex FSHD, which involves structural complexity beyond simple repeat contractions. Neither SB nor OGM alone could diagnose hybrid FSHD, and the combination of both was required. Here, we propose a modified Clinical Laboratory Improvement Amendments (CLIA) procedure in which OGM is performed first for suspected FSHD, followed by SB based on additional criteria, as a rapid and reliable method of diagnosing FSHD. However, further studies using sequencing and epigenetic analysis are needed to better understand the pathogenesis of FSHD.
 
-# References
+## Figures
+
+![OGM-SB-ALLELES](/assets/img/density.jpg)
+_Description: Chromosome 4, 4 & 10, and 10, from the first column on the left to the right. From top to bottom, hybrid, mosaic, and simple._
+
+![OGM-SB-REGRESSION](/assets/img/regression.jpg)
+_Description: Linear regression between OGM and SB. Hybrid, mosaic, and simple, from the first column on the left to the right._
+
+![OGM-SB-ALLELES](/assets/img/ba.jpg)
+_Description: Bland-Altman plots. Hybrid, mosaic, and simple, from the first column on the left to the right._
+
+## References
 
 1. Lemmers RJLF, O’Shea S, Padberg GW, Lunt PW, Van Der Maarel SM. Best practice guidelines on genetic diagnostics of Facioscapulohumeral muscular dystrophy: Workshop 9th June 2010, LUMC, Leiden, The Netherlands. *Neuromuscular Disorders*. 2012-05-01 2012;22(5):463-470. doi:10.1016/j.nmd.2011.09.004
 2. Lei Y-Q, Xu L-P, Cao H, Wang X-R. A method of large DNA fragment enrichment for nanopore sequencing in region 22q11.2. Original Research. *Frontiers in Genetics*. 2022-October-31 2022;13doi:10.3389/fgene.2022.959883

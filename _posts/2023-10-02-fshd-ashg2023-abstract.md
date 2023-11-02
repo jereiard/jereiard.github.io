@@ -5,14 +5,14 @@ date: 2023-10-02 00:53:00 +0900
 categories: [Blogging, Study]
 tags: [fshd]
 toc: true
-render_with_liquid: true
+render_with_liquid: false
 m_footer: footer_fshd.html
 ---
 
 Joowon Jang, M.D.<sup>1</sup>, Hobin Sung<sup>1</sup>, Jung Ae Lee, M.T.<sup>1</sup>, Sung Im Cho, M.T.<sup>1</sup>, Jee-Soo Lee, M.D., Ph. D.<sup>1</sup>, Man Jin Kim, M.D. Ph. D.<sup>2</sup>, Moon-Woo Seong, M.D., Ph. D.<sup>1,3</sup>
 
 <sup>1</sup>Department of Laboratory Medicine, Seoul National University Hospital, Seoul National University College of Medicine, Seoul, Korea;
-<sup>2</sup>Rare Disease Center, Seoul National University Hospital, Seoul National Uni- versity College of Medicine, Seoul, Korea;
+<sup>2</sup>Rare Disease Center, Seoul National University Hospital, Seoul National University College of Medicine, Seoul, Korea;
 <sup>3</sup>Cancer research Institute, Seoul National University Hospital, Seoul, Korea
 
 [Download the poster (PDF)](/assets/attachment/poster_ashg2023_fshd.pdf)

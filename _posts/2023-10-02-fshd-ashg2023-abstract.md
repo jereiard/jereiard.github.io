@@ -6,6 +6,7 @@ categories: [Blogging, Study]
 tags: [fshd]
 toc: true
 render_with_liquid: false
+m_footer: footer_fshd.html
 ---
 
 Joowon Jang, M.D.<sup>1</sup>, Hobin Sung<sup>1</sup>, Jung Ae Lee, M.T.<sup>1</sup>, Sung Im Cho, M.T.<sup>1</sup>, Jee-Soo Lee, M.D., Ph. D.<sup>1</sup>, Man Jin Kim, M.D. Ph. D.<sup>2</sup>, Moon-Woo Seong, M.D., Ph. D.<sup>1,3</sup>
@@ -64,3 +65,7 @@ _Description: Bland-Altman plots. Hybrid, mosaic, and simple, from the first col
 9. Hewitt JE, Lyle R, Clark LN, et al. Analysis of the tandem repeat locus D4Z4 associated with facioscapulohumeral muscular dystropothhy. *Human Molecular Genetics*. 1994;3(8):1287-1295. doi:10.1093/hmg/3.8.1287
 10. Jones A, Torkel C, Stanley D, Nasim J, Borevitz J, Schwessinger B. High-molecular weight DNA extraction, clean-up and size selection for long-read sequencing. *PLOS ONE*. 2021-07-15 2021;16(7):e0253830. doi:10.1371/journal.pone.0253830
 11. Liu Y, Rosikiewicz W, Pan Z, et al. DNA methylation-calling tools for Oxford Nanopore sequencing: a survey and human epigenome-wide evaluation. *Genome Biology*. 2021-12-01 2021;22(1)doi:10.1186/s13059-021-02510-z
+
+{% if page.m_footer %}
+  {% include {{ page.m_footer }} %}
+{% endif %}

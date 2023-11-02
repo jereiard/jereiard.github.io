@@ -39,6 +39,9 @@ We evaluated the diagnostic value of OGM for complex FSHD, which involves struct
 
 ## Figures
 
+> Please touch images to enlarge.
+{: .prompt-tip }
+
 ![OGM-SB-ALLELES](/assets/img/density.jpg)
 _Description: Chromosome 4, 4 & 10, and 10, from the first column on the left to the right. From top to bottom, hybrid, mosaic, and simple._
 
